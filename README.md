@@ -1,5 +1,3 @@
-<h1 align="left">🔍 About Me</h1>
-
 <table border="0">
  <tr>
   <td width="60%" valign="top">
@@ -46,7 +44,7 @@
   
   <td width="40%" valign="center">
    <div align="center">
-    <img src="PC.png" width="120%" style="border-radius: 10px;" alt="PC" />
+    <img src="PC.png" width="150%" style="border-radius: 10px;" alt="PC" />
    </div>
   </td>
  </tr>
