@@ -1,25 +1,25 @@
 <div align="center">
-  <img src="https://i.imgur.com/PeB9l5h.gif" width="100%" alt="Space Header">
+  <img src="https://media.giphy.com/media/xT9IgusfDcqpPFzjdS/giphy.gif" width="100%" height="250px" style="object-fit: cover;" alt="Space Hyperdrive">
   
-  # 🚀 Mission Log: Exploring the Code Cosmos
+  # 🚀 Mission Log: Valber Lucas
   
   ### Software Engineering | Architecting Interstellar Solutions
   
   <p align="center">
-   Welcome to my base of operations. I'm an engineer dedicated to charting courses through complex backend systems and designing sleek interfaces across the digital universe. My mission is to build robust, scalable technology that pushes boundaries.
+   Welcome to my base of operations. My mission is to build robust, scalable technology that pushes boundaries.
+   <br>
+   <i>"To Infinity and Beyond."</i>
   </p>
 
 <br>
 
-⚡ **Hailing Frequencies (Connect with me):**
-
-<a href="LINK_DO_SEU_LINKEDIN_AQUI" target="_blank">
+<a href="https://linkedin.com/in/SEU_USUARIO" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="mailto:SEU_EMAIL_AQUI" target="_blank">
+<a href="mailto:SEU_EMAIL@GMAIL.COM" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-<a href="LINK_DO_SEU_PORTFOLIO_AQUI" target="_blank">
+<a href="https://SEU_PORTFOLIO.COM" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio">
 </a>
 
@@ -29,18 +29,15 @@
 
 ### 🪐 Tech Constellations & Toolbox
 
-Here are the technologies I use to navigate the software universe:
-
 | 🌌 Category | 🛠️ Technologies |
 | :--- | :--- |
 | **🪐 Backend Propulsion** | Java, Python, Spring Boot |
-| **🛸 Galactic Interfaces (Frontend)** | JavaScript, React, Angular 21 |
+| **🛸 Galactic Interfaces** | JavaScript, React, Angular 21 |
 | **🔭 Web Infrastructure** | HTML, CSS, Web Servers |
 | **🗄️ Data Planetariums** | SQL Server |
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/master/platane.svg" height="120" alt="coding astronaut">
-  <p><i>"Execution is everything in the vacuum of space."</i></p>
+  <h3>⚡ Status: Online & Coding</h3>
 </div>
