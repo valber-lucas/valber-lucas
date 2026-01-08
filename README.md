@@ -3,8 +3,7 @@
   <td width="60%" valign="top">
    <br/>
    <p>
-    <strong>Hello! My name is Valber Lucas,</strong> Software Engineering.<br/>
-    I'm a Backend Developer, in process for FullStack.
+    <strong>Hello! I'm Valber Lucas, a Software Engineering student. I'm a Backend Developer transitioning to Full Stack.</strong>
    </p>
    <blockquote>
     <i>"Hello World!"</i>
