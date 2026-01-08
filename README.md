@@ -3,6 +3,7 @@
 <table border="0">
  <tr>
   <td width="60%" valign="top">
+   <br/>
    <p>
     <strong>Hello! My name is Valber Lucas</strong> , Software Engineering<br/>
     I'm a Backend Developer, in process for FullStack.
@@ -13,7 +14,7 @@
    
    <br/>
 
-   <h3>🛠️ Tech Arsenal</h3>
+   <h3>🛠️ Technologies/h3>
    <div style="display: inline-block">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -28,9 +29,9 @@
     <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
    </div>
 
-   <br/><br/>
+   <br/>
 
-   <h3>📡 Connect</h3>
+   <h3>📡 Let's Talk!</h3>
 <a href="https://www.linkedin.com/in/valber-lucas/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
@@ -45,7 +46,7 @@
   
   <td width="40%" valign="center">
    <div align="center">
-    <img src="PC.png" width="100%" style="border-radius: 10px;" alt="Astronaut Coding" />
+    <img src="PC.png" width="120%" style="border-radius: 10px;" alt="PC" />
    </div>
   </td>
  </tr>
