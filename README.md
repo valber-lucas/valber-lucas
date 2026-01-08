@@ -4,7 +4,7 @@
  <tr>
   <td width="60%" valign="top">
    <p>
-    <strong>Hello! My name is Valber Lucas</strong> Software Engineering<br/>
+    <strong>Hello! My name is Valber Lucas</strong> , Software Engineering<br/>
     I'm a Backend Developer, in process for FullStack.
    </p>
    <blockquote>
@@ -31,15 +31,16 @@
    <br/><br/>
 
    <h3>📡 Connect</h3>
-   <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
-   </a>
-   <a href="mailto:SEU_EMAIL@GMAIL.COM">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" />
-   </a>
-   <a href="https://portfoliovalber.vercel.app/" target="_blank">
+<a href="https://www.linkedin.com/in/valber-lucas/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:valberlucas2125@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://portfoliovalber.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio">
-   </a>
+</a>
+
   </td>
   
   <td width="40%" valign="center">
