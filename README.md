@@ -13,13 +13,13 @@
 
 <br>
 
-<a href="https://linkedin.com/in/SEU_USUARIO" target="_blank">
+<a href="https://www.linkedin.com/in/valber-lucas/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="mailto:SEU_EMAIL@GMAIL.COM" target="_blank">
+<a href="mailto:valberlucas2125@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-<a href="https://SEU_PORTFOLIO.COM" target="_blank">
+<a href="https://portfoliovalber.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio">
 </a>
 
