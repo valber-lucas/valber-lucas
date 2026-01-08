@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/xT9IgusfDcqpPFzjdS/giphy.gif" width="100%" height="250px" style="object-fit: cover;" alt="Space Hyperdrive">
   
-  # 🚀 Mission Log: Valber Lucas
+  # 🚀 Agent: Valber Lucas Almeida Cavalcanti
   
-  ### Software Engineering | Architecting Interstellar Solutions
+  ### Software Engineering | Architecting Effective Solutions
   
   <p align="center">
    Welcome to my base of operations. My mission is to build robust, scalable technology that pushes boundaries.
@@ -27,17 +27,17 @@
 
 ---
 
-### 🪐 Tech Constellations & Toolbox
+### 🪐 Technologies & Toolbox
 
-| 🌌 Category | 🛠️ Technologies |
+| 🌌 Category | 🛠️ Tech |
 | :--- | :--- |
-| **🪐 Backend Propulsion** | Java, Python, Spring Boot |
-| **🛸 Galactic Interfaces** | JavaScript, React, Angular 21 |
+| **🪐 Backend** | Java, Python, Spring Boot |
+| **🛸 Frontend** | JavaScript, React, Angular 21 |
 | **🔭 Web Infrastructure** | HTML, CSS, Web Servers |
-| **🗄️ Data Planetariums** | SQL Server |
+| **🗄️ Data Base** | SQL Server, MySQL |
 
 <br>
 
 <div align="center">
-  <h3>⚡ Status: Online & Coding</h3>
+  <h3>⚡ Status: Online and Coding</h3>
 </div>
