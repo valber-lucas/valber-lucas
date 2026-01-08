@@ -1,14 +1,11 @@
-<h1 align="center">🚀 Mission Log: Valber Lucas</h1>
+<h1 align="left">🔍 About Me</h1>
 
 <table border="0">
  <tr>
   <td width="60%" valign="top">
-   <h3>
-    🔭 About Me
-   </h3>
    <p>
-    <strong>Software Engineering</strong> student based in Brazil. <br/>
-    My mission is to build robust, scalable technology that pushes boundaries.
+    <strong>Hello! My name is Valber Lucas</strong> Software Engineering<br/>
+    I'm a Backend Developer, in process for FullStack.
    </p>
    <blockquote>
     <i>"To Infinity and Beyond."</i> 💫
