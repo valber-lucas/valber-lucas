@@ -7,11 +7,9 @@
     I'm a Backend Developer, in process for FullStack.
    </p>
    <blockquote>
-    <img src="https://komarev.com/ghpvc/?username=valber-lucas&label=Mission+Views&color=blueviolet&style=flat" alt="Profile Views" />
     <i>"To Infinity and Beyond."</i> 💫
+    // <img src="https://komarev.com/ghpvc/?username=valber-lucas&label=Mission+Views&color=blueviolet&style=flat" alt="Profile Views" />
    </blockquote>
-   
-   <br/>
 
    <h3>🛠️ Technologies</h3>
    <div style="display: inline-block">
