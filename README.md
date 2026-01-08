@@ -7,7 +7,6 @@
     I'm a Backend Developer, in process for FullStack.
    </p>
    <blockquote>
-    <i>"To Infinity and Beyond."</i> 💫
     <br/><img src="https://komarev.com/ghpvc/?username=valber-lucas&label=Mission+Views&color=blueviolet&style=flat" alt="Profile Views" />
    </blockquote>
 
@@ -43,7 +42,7 @@
   
   <td width="70%" valign="center">
    <div align="center">
-    <img src="PC.png" width="700px" style="border-radius: 10px;" alt="PC" />
+    <img src="PC.png" width="1000px" style="border-radius: 10px;" alt="PC" />
    </div>
   </td>
  </tr>
