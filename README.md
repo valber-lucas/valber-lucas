@@ -7,6 +7,7 @@
     I'm a Backend Developer, in process for FullStack.
    </p>
    <blockquote>
+    <i>"Hello World!"</i>
     <br/><img src="https://komarev.com/ghpvc/?username=valber-lucas&label=Mission+Views&color=blueviolet&style=flat" alt="Profile Views" />
    </blockquote>
 
