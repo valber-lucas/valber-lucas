@@ -3,12 +3,12 @@
   <td width="60%" valign="top">
    <br/>
    <p>
-    <strong>Hello! My name is Valber Lucas</strong> , Software Engineering<br/>
+    <strong>Hello! My name is Valber Lucas,</strong> Software Engineering<br/>
     I'm a Backend Developer, in process for FullStack.
    </p>
    <blockquote>
     <i>"To Infinity and Beyond."</i> 💫
-    // <img src="https://komarev.com/ghpvc/?username=valber-lucas&label=Mission+Views&color=blueviolet&style=flat" alt="Profile Views" />
+    <br/><img src="https://komarev.com/ghpvc/?username=valber-lucas&label=Mission+Views&color=blueviolet&style=flat" alt="Profile Views" />
    </blockquote>
 
    <h3>🛠️ Technologies</h3>
