@@ -40,11 +40,14 @@
    <a href="mailto:SEU_EMAIL@GMAIL.COM">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" />
    </a>
+   <a href="https://portfoliovalber.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio">
+   </a>
   </td>
   
-  <td width="40%" valign="top">
+  <td width="40%" valign="center">
    <div align="center">
-    <img src="https://media.giphy.com/media/QfpFLLe8A452s/giphy.gif" width="100%" style="border-radius: 10px;" alt="Space Rocket" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q0M2E4M2Q0M2E4M2Q0M2E4M2Q0M2E4M2Q0M2E4MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3og0IFrHkIglp85ye4/giphy.gif" width="100%" style="border-radius: 10px;" alt="Astronaut Coding" />
    </div>
   </td>
  </tr>
