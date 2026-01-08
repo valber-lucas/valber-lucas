@@ -43,7 +43,7 @@
   
   <td width="70%" valign="center">
    <div align="center">
-    <img src="PC.png" width="150px" style="border-radius: 10px;" alt="PC" />
+    <img src="PC.png" width="500px" style="border-radius: 10px;" alt="PC" />
    </div>
   </td>
  </tr>
