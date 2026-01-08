@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
    </div>
 
-   <br/>
+   
 
    <h3>📡 Let's Talk!</h3>
 <a href="https://www.linkedin.com/in/valber-lucas/" target="_blank">
@@ -43,7 +43,7 @@
   
   <td width="70%" valign="center">
    <div align="center">
-    <img src="PC.png" width="150%" style="border-radius: 10px;" alt="PC" />
+    <img src="PC.png" width="150px" style="border-radius: 10px;" alt="PC" />
    </div>
   </td>
  </tr>
