@@ -47,7 +47,7 @@
   
   <td width="40%" valign="center">
    <div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q0M2E4M2Q0M2E4M2Q0M2E4M2Q0M2E4M2Q0M2E4MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3og0IFrHkIglp85ye4/giphy.gif" width="100%" style="border-radius: 10px;" alt="Astronaut Coding" />
+    <img src="PC.png" width="100%" style="border-radius: 10px;" alt="Astronaut Coding" />
    </div>
   </td>
  </tr>
