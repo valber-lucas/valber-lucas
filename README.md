@@ -1,7 +1,7 @@
-<img src="VLCODE.png" alt="logo" width="150">
 <table border="0">
  <tr>
   <td width="60%" valign="top">
+   <img src="VLCODE.png" alt="logo" width="150">
    <br/>
    <p>
     <strong>Hello! I'm Valber Lucas, a Software Engineering student. I'm a Backend Developer transitioning to Full Stack.</strong>
