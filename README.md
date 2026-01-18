@@ -1,3 +1,4 @@
+<img src="VLCODE.png" alt="logo" width="150">
 <table border="0">
  <tr>
   <td width="60%" valign="top">
